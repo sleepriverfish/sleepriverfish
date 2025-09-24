@@ -3,7 +3,7 @@
 Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1) or discord(@bauer6009)
 
 
-### Public Competitions
+## Public Competitions
   |#|Protocol|Rnaking|Link|
   |---|---|----|----|
   |1|Alchemix|🥇1st|[Audit Contest](https://audits.sherlock.xyz/contests/273/report)|
@@ -16,7 +16,7 @@ Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1)
   |8|aave-aptos|4th|[Audit Contest](https://cantina.xyz/code/ad445d42-9d39-4bcf-becb-0c6c8689b767/overview/leaderboard)|
 
 
-### Bug Bounty
+## Bug Bounty
   |#|Protocol|Severity|Status|Platform|
    |---|---|----|----|----|
   |1|dorahacks|High|Paid|Immunefi|
@@ -28,9 +28,9 @@ Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1)
   |7|Sui|Low|Paid|Hackenproof|
   |8|Sui|Low|Paid|Hackenproof|
 
-### Private Audits
+## Private Audits
 
-  #### Move:
+  ### Move:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
   |1|BlockBolt|Payment|Movebit|
@@ -115,7 +115,7 @@ Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1)
   |80|Deeper Finance|Lending|Movebit|
   |81|Magma Finance|DLMM|Movebit|
   |82|xMoney|Bridge|Movebit|
-  #### Evm:
+  ### Evm:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
   |1|EchoDex|Dex|Scalebit|
@@ -155,20 +155,20 @@ Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1)
   |36|FIR|Token|Scalebit|
   |37|ShareX|Synthetic Assets|Scalebit|
   |38|Yes or No|Prediction Market|Scalebit|
-  #### Solana:
+  ### Solana:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
   |1|MoonPump|Pump|Scalebit|
   |2|FarmerMeme|Meme|Scalebit|
   |3|Pell Network|Restaking|Scalebit|
   |4|Moonpump|Pump|Scalebit|
-  #### Starknet:
+  ### Starknet:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
   |1|10k swap|Dex|Scalebit|
   |2|StarkSport|Lending && Borrowing|Scalebit|
 
-  #### Ton:
+  ### Ton:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
   |1|MeMeStore|Defi|TonBit|
