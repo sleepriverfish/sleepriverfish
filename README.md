@@ -115,6 +115,7 @@ Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1)
   |80|Deeper Finance|Lending|Movebit|
   |81|Magma Finance|DLMM|Movebit|
   |82|xMoney|Bridge|Movebit|
+  |83|Ferra DLMM|DLMM|Movebit|
   ### Evm:
   |#|Protocol|Description|Firm|
   |---|---|----|----|
