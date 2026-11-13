@@ -1,6 +1,6 @@
 
 # Portfolio
-Reach out via [twitter](https://x.com/azhasj_), [telegram](https://t.me/yjshen1) or discord(@bauer6009)
+Reach out via [twitter](https://x.com/riversleeper_), [telegram](https://t.me/yjshen1) or discord(@bauer6009)
 
 
 ## Public Competitions
